@@ -5,6 +5,10 @@ Sistema desenvolvido durante a Next Level Week, composto por Backend (NodeJS - E
 O objetivo desse sistema é facilitar a comunicação entre pessoas interessadas em descartar materiais recicláveis ou nocivos ao meio ambiente, como pilhas e produtos eletrônicos, e instituições que coletam esses materiais.
 O cadastro das intituições é feito através da aplicação web, através do aplicativo o usuário pode identificar as instituições próximas a ele que coletam tais materiais (a geolocalização é utilizada).
 
+![Home da aplicação web](./screenshots/Home.png)
+
+![Área de pesquisa da aplicação mobile](./screenshots/Screenshot_20200608-152606.png)
+
 Para mais screenshots acesse a pasta "screenshots" desse repositório. (Em breve)
 
 ## Instalação
